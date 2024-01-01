@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Communauté &#8211; FitActive, votre club de sport à Montpellier</title>
-	<atom:link href="https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/category/communaute/feed/" rel="self" type="application/rss+xml" />
-	<link>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Préparez-vous à repousser vos limites dans une ambiance dynamique et conviviale !</description>
-	<lastBuildDate>Sat, 30 Dec 2023 23:52:13 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 31 Dec 2023 17:48:27 +0000</lastBuildDate>
 	<language>fr-FR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,50 +21,50 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/wp-content/uploads/2023/12/telechargement-150x150.png</url>
+	<url>./../../../wp-content/uploads/2023/12/telechargement-150x150.png</url>
 	<title>Communauté &#8211; FitActive, votre club de sport à Montpellier</title>
-	<link>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Les histoires inspirantes de réussite au sein de notre communauté fitness</title>
-		<link>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/2023/12/08/bonjour-tout-le-monde/</link>
+		<link>./../../../les-histoires-inspirantes-de-reussite-au-sein-de-notre-communaute-fitness/index.html</link>
 		
 		<dc:creator><![CDATA[audrey.diez]]></dc:creator>
 		<pubDate>Fri, 08 Dec 2023 22:19:26 +0000</pubDate>
 				<category><![CDATA[Communauté]]></category>
-		<guid isPermaLink="false">https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/?p=461</guid>
+		<guid isPermaLink="false">./../../../index.html?p=461</guid>
 
-					<description><![CDATA[Dans les coulisses de notre club de fitness, des histoires extraordinaires de réussite émergent, tissant la toile d&#8217;une communauté résolument engagée dans la transformation personnelle. Chaque parcours est unique, mais tous partagent une caractéristique commune : la détermination à atteindre des objectifs fitness significatifs. Ces récits inspirants, provenant de membres de tous horizons, démontrent la &#8230;<p class="read-more"> <a class="" href="https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/2023/12/08/bonjour-tout-le-monde/"> <span class="screen-reader-text">Les histoires inspirantes de réussite au sein de notre communauté fitness</span> Lire la suite »</a></p>]]></description>
+					<description><![CDATA[Dans les coulisses de notre club de fitness, des histoires extraordinaires de réussite émergent, tissant la toile d&#8217;une communauté résolument engagée dans la transformation personnelle. Chaque parcours est unique, mais tous partagent une caractéristique commune : la détermination à atteindre des objectifs fitness significatifs. Ces récits inspirants, provenant de membres de tous horizons, démontrent la &#8230;<p class="read-more"> <a class="" href="./../../../les-histoires-inspirantes-de-reussite-au-sein-de-notre-communaute-fitness/index.html"> <span class="screen-reader-text">Les histoires inspirantes de réussite au sein de notre communauté fitness</span> Lire la suite »</a></p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Rencontrez nos membres passionnés qui redéfinissent leur forme avec le CrossFit</title>
-		<link>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/2023/11/12/bonjour-tout-le-monde-2/</link>
+		<link>./../../../rencontrez-nos-membres-passionnes-qui-redefinissent-leur-forme-avec-le-crossfit/index.html</link>
 		
 		<dc:creator><![CDATA[audrey.diez]]></dc:creator>
 		<pubDate>Sun, 12 Nov 2023 22:24:09 +0000</pubDate>
 				<category><![CDATA[Communauté]]></category>
-		<guid isPermaLink="false">https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/?p=467</guid>
+		<guid isPermaLink="false">./../../../index.html?p=467</guid>
 
-					<description><![CDATA[Bienvenue dans le monde inspirant de nos membres passionnés qui, chaque jour, repoussent leurs limites et redéfinissent leur forme grâce au CrossFit. Au sein de notre communauté, le CrossFit devient plus qu&#8217;un simple entraînement – c&#8217;est une aventure physique et mentale où chaque participant embrasse le défi avec détermination. Emmanuelle, une adepte du CrossFit, incarne &#8230;<p class="read-more"> <a class="" href="https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/2023/11/12/bonjour-tout-le-monde-2/"> <span class="screen-reader-text">Rencontrez nos membres passionnés qui redéfinissent leur forme avec le CrossFit</span> Lire la suite »</a></p>]]></description>
+					<description><![CDATA[Bienvenue dans le monde inspirant de nos membres passionnés qui, chaque jour, repoussent leurs limites et redéfinissent leur forme grâce au CrossFit. Au sein de notre communauté, le CrossFit devient plus qu&#8217;un simple entraînement – c&#8217;est une aventure physique et mentale où chaque participant embrasse le défi avec détermination. Emmanuelle, une adepte du CrossFit, incarne &#8230;<p class="read-more"> <a class="" href="./../../../rencontrez-nos-membres-passionnes-qui-redefinissent-leur-forme-avec-le-crossfit/index.html"> <span class="screen-reader-text">Rencontrez nos membres passionnés qui redéfinissent leur forme avec le CrossFit</span> Lire la suite »</a></p>]]></description>
 		
 		
 		
 			</item>
 		<item>
 		<title>Des liens qui se tissent : comment notre club de boxe fédère une véritable famille fitness</title>
-		<link>https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/2023/10/26/bonjour-tout-le-monde-2-2/</link>
+		<link>./../../../des-liens-qui-se-tissent-comment-notre-club-de-boxe-federe-une-veritable-famille-fitness/index.html</link>
 		
 		<dc:creator><![CDATA[audrey.diez]]></dc:creator>
 		<pubDate>Thu, 26 Oct 2023 21:29:10 +0000</pubDate>
 				<category><![CDATA[Communauté]]></category>
-		<guid isPermaLink="false">https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/?p=469</guid>
+		<guid isPermaLink="false">./../../../index.html?p=469</guid>
 
-					<description><![CDATA[Plongez dans l&#8217;âme de notre club de boxe, où des liens authentiques se tissent pour créer une véritable famille fitness. La boxe va au-delà de l&#8217;art de l&#8217;autodéfense ici ; elle devient le moyen par excellence de forger des relations solides et durables. Chaque crochet, chaque uppercut, devient une expression de camaraderie, unissant nos membres &#8230;<p class="read-more"> <a class="" href="https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/2023/10/26/bonjour-tout-le-monde-2-2/"> <span class="screen-reader-text">Des liens qui se tissent : comment notre club de boxe fédère une véritable famille fitness</span> Lire la suite »</a></p>]]></description>
+					<description><![CDATA[Plongez dans l&#8217;âme de notre club de boxe, où des liens authentiques se tissent pour créer une véritable famille fitness. La boxe va au-delà de l&#8217;art de l&#8217;autodéfense ici ; elle devient le moyen par excellence de forger des relations solides et durables. Chaque crochet, chaque uppercut, devient une expression de camaraderie, unissant nos membres &#8230;<p class="read-more"> <a class="" href="./../../../des-liens-qui-se-tissent-comment-notre-club-de-boxe-federe-une-veritable-famille-fitness/index.html"> <span class="screen-reader-text">Des liens qui se tissent : comment notre club de boxe fédère une véritable famille fitness</span> Lire la suite »</a></p>]]></description>
 		
 		
 		

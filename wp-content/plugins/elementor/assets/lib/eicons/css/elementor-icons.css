@@ -1,7 +1,7 @@
 @font-face {
   font-family: "eicons";
-  src: url("https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_25_0");
-  src: url("https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5_25_0#iefix") format("embedded-opentype"), url("https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5_25_0") format("woff2"), url("https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5_25_0") format("woff"), url("https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5_25_0") format("truetype"), url("https://openclassrooms-student-center.github.io/8266636-Creez-votre-premier-site-avec-wordpress-activit-P5C5-/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5_25_0#eicon") format("svg");
+  src: url("./../fonts/eicons.eot?5_25_0");
+  src: url("./../fonts/eicons.eot?5_25_0#iefix") format("embedded-opentype"), url("./../fonts/eicons.woff2?5_25_0") format("woff2"), url("./../fonts/eicons.woff?5_25_0") format("woff"), url("./../fonts/eicons.ttf?5_25_0") format("truetype"), url("./../fonts/eicons.svg?5_25_0#eicon") format("svg");
   font-weight: normal;
   font-style: normal;
 }
